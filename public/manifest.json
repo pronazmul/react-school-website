@@ -1,25 +1,67 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Al Helal Model School",
+  "short_name": "AHMS",
+  "description": "An Educational School Website",
+  "lang": "en-US",
+  "start_url":"/",
+  "display": "standalone",
+  "theme_color":"#1A56B4",
+  "background_color":"#ffffff",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "Icons/72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Icons/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Icons/120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "Icons/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "Icons/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "Icons/152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "Icons/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "Icons/192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "Icons/384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "Icons/512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
