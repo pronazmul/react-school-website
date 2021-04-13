@@ -1,5 +1,4 @@
-# Twitter Clone Poroject
-
+<h1 align="center"> Twitter Clone Poroject</h1>
 ## React Appliaction installation With PWA Features
 ```sh
     npx create-react-app my-app --template cra-template-pwa
